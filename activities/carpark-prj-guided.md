@@ -83,7 +83,7 @@ Ensure you have completed the previous table and include at least two methods an
 
 ### Implement stubs for the classes
 
-1. In your `src/` directory, create a new Python file for each class you identified in the previous step. For example, `car_park.py`, `sensor.py`, and `display.py`.
+1. In your `src/` directory, create a new Python file for each class you identified in the previous step. For example, `car_park.py`, `sensor.py`, `display.py` and `config.py`.
    Notice that the file names are all lowercase and use underscores to separate words. This is a common convention for Python file names. In general, Python files are named like variables, using lowercase and underscores to separate words.
 2. In _each_ file, create a class with the same name as the file. For example, the `car_park.py` file should contain a `CarPark` class. Notice that the class name is capitalized and uses CamelCase to separate words. This is a common convention for Python class names. An example class definition is shown below:
 
